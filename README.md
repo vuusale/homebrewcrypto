@@ -1,2 +1,5 @@
-# homebrewcrypto
-Encryption algorithm created by me
+# HomeBrew Crypto
+
+New generation encryption algorithm created by me
+
+It was developed based on <b>Vigenère cipher</b>
